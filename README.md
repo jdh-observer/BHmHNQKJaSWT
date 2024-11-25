@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdh-observer/BHmHNQKJaSWT/HEAD?filepath=anonymized_Debates_on_a_Burden.ipynb)
+
 # Debates on a Burden: Exploring the Connotations of the Wehrmacht in Post-War German Politics
 
 ## Abstract
