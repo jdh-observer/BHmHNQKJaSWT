@@ -402,10 +402,10 @@ One can also compare frequencies by party. Table 1 presents both the absolute an
 
 <!-- #endregion -->
 
-Considering these frequencies, the corpus is divided using a sliding window of ten years, which shifts by five years. This technique yields 13 overlapping time frames covering the years 1949 to 2018. The ten-year window ensures that the count of 'Wehrmacht' tokens is reasonably high in each slice, while the overlap allows for a finer resolution of the analyzed period.
+Considering these frequencies, the corpus is divided using a sliding window of ten years, which shifts by five years. This technique yields 13 overlapping time frames covering the years 1949 to 2018. The ten-year window ensures that the count of 'Wehrmacht' tokens is reasonably high in each slice, while the overlap allows for a finer resolution of the analysed period.
 
 
-### Word embedding neighbors
+### Word embedding neighbours
 
 
 For each time frame, the corresponding word embedding indicates the contexts in which the term “Wehrmacht” appears within the Bundestag’s proceedings. Table 2 shows the ten nearest neighbours of “Wehrmacht” in each embedding’s vector space. In the first two time frame, where “Wehrmacht” exhibits the highest frequency, its closest similarities are to military terms. These include words for military branches (“Heer”, “Marine”), military personnel, and its organization (“Soldat”, “Offizier”, “Berufssoldat”). Additionally, the Reichswehr, as the German armed forces were titled until 1935, and the Bundeswehr are present. This suggests that the frequent mentions of the Wehrmacht in the 1950s Bundestag primarily revolved around technical issues of military organization, pertinent to the establishment of the Bundeswehr, and matters regarding military personnel, relevant to both the new armed forces and the treatment of veterans.
@@ -433,7 +433,7 @@ The Wehrmacht's nearest neighbours for the time frame running from the late 1950
 By the 1970s and 1980s, the neighbouring terms suggest that parliamentary discussions of the Wehrmacht increasingly shift from practical to historical contexts. The terms “Legion Condor,” “Waffen-SS,” and “Reichswehr” show a high degree of similarity to “Wehrmacht.” Other closely related terms include “Nazi,” references to Prussia and imperial Germany, and several historical dates. By the 1990s, the trend of contextualizing the Wehrmacht within Nazi discourse in parliamentary speeches becomes dominant, coinciding with the second frequency peak. “Hitler” and several other terms related to Nazism and fascism appear among the top ten. In contrast to earlier periods, discussions now explicitly highlight the illegitimacy of German military conduct in general, as indicated by terms like “Vernichtungskrieg” and “Widerstandskämpfer.” Additionally, the presence of Eduard Dietl’s name (“Dietl”) underscores the legislature's concern with continuities between the Wehrmacht and the Bundeswehr. The issue of renaming Bavarian barracks that had been named after Dietl — a general widely believed to have been a staunch supporter of Nazism and a war criminal — was raised multiple times in the legislature. The end of the Cold War may have contributed to shifting law makers attention to these symbolic questions, as matters of defence policy and procurement became less urgent. In the last recent time frames, the trends of the 1990s persist, but the Wehrmacht is placed even more directly in the context of genocide, as reflected by terms such as “Konzentrationslager,” “KZ,” and “Auschwitz.”
 
 
-In summary, the contexts for debating the Wehrmacht in the Bundestag shifted, as evidenced by the term’s nearest neighbors. In the immediate post-war period, references to the Wehrmacht centred around military and organizational terms. However, by the 1970s, the Wehrmacht was increasingly situated within historical contexts, ultimately emphasizing Nazi crimes by the 1990s.
+In summary, the contexts for debating the Wehrmacht in the Bundestag shifted, as evidenced by the term’s nearest neighbours. In the immediate post-war period, references to the Wehrmacht centred around military and organizational terms. However, by the 1970s, the Wehrmacht was increasingly situated within historical contexts, ultimately emphasizing Nazi crimes by the 1990s.
 
 
 ### Semantic shift
