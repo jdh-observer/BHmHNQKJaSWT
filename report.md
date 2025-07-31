@@ -173,9 +173,9 @@ No JavaScript code found in output cells.
 > The following tags are missing or invalid
 
 #### Missing Tags:
-- contributor
-- cover
 - copyright
+- cover
+- contributor
 >[!CAUTION]
 > **copyright** tag is missing. Make sure to fill this template document [license_to_publish_JDH.dotx](https://github.com/C2DH/journal-of-digital-history-ipynb-preflight-action/blob/master/license_to_publish_JDH.dotx) and send it to jdh.admin@uni.lu
 
