@@ -16,7 +16,7 @@ jobs:
         id: preflight
         uses: c2dh/journal-of-digital-history-ipynb-preflight-action@master
         with:
-          notebook: 'anonymized_Debates_on_a_Burden.ipynb'
+          notebook: 'wrong_name.ipynb'
           functions: 'checkkernel,checkcitation,checkoutput,checkhtml,checkjavascript,checktags,checkurls'
           output_md: 'report.md'
       # Use the output from the `preflight` step
