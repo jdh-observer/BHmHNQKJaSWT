@@ -1,3 +1,5 @@
+Post thread:
+
 1. How have German politicians dealt with the burdensome legacy of militarism after the Second World War? This paper explores the connotations of the Wehrmacht in political speech through word embeddings trained on parliamentary proceedings.
 
 2. The Bundestag - (West) Germany’s federal legislature - has published its proceedings since 1949. Digitized editions of these proceedings contain over 900,000 speeches, questions, and interjections, forming a valuable but underutilized corpus of sources on post-war German politics.
