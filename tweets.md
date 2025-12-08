@@ -6,6 +6,6 @@ Post thread:
 
 3. To assess the semantic changes in how German politicians spoke about the Wehrmacht, we use overlapping diachronic word embeddings. An additional analysis of term frequency measures the level of interest in the Wehrmacht over time.
 
-4. German politicians spoke most frequently about the Wehrmacht in the 1950s, with a noticeable resurgence of interest following German reunification in the 1990s. During this period, the Wehrmacht shifted from being relevant to social and defense policies to becoming integrated into a culture of remembrance.
+4. The paper shows how combining frequency measures with diachronic word embeddings helps trace long-running political discourses in large historical corpora, revealing how meanings and associations shift over decades.
 
 5. The paper illustrates how the combination of frequency analysis and diachronic word embeddings can help to explore and understand the development of long-running discourses in large sets of historical data.
